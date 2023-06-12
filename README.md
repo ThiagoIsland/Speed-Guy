@@ -6,4 +6,3 @@ Link pra Download da versão exe(executável) e todos os arquivos do jogo: https
 
 Versão WEB: https://thiagoisland.itch.io/speed-guy-godot
 
-OBS: Utilizei o google drive como forma de download do jogo pois eu estava com dificuldades para fazer o upload dos arquivos no GitHub, não consegui de forma alguma.
