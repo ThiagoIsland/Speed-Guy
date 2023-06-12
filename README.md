@@ -17,3 +17,10 @@ Controls:
 Gameplay:
 ![image](https://github.com/ThiagoIsland/Speed-Guy/assets/114539167/b0ddd841-59a9-4ffb-8355-f529d947b8d3)
 
+# INSPIRAÇÕES E FERRAMENTAS
+
+1. https://www.youtube.com/@clecioespindolagamedev
+2. Itch.io
+3. Chat GPT
+4. Aulas de jogos
+5. Alura
